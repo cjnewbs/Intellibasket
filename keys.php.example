@@ -1,0 +1,23 @@
+<?php
+//Keys, usernames and passwords
+
+
+//Tesco account login details
+$_email = "user@host.net";
+$_password = "yourTescoPassword";
+
+//Tesco API login details
+$_tescoDeveloperKey = "tescoDevKey";
+$_tescoApplicationKey = "tescoAppKey";
+
+
+//Pushbullet Key
+$_pushBulletKey = "PBaccessToken";
+
+//mySql Login Details
+$_mysqlUsername = "yourMysqlLogin";
+$_mysqlPassword = "yourMysqlPassword";
+
+//outpan Key
+$_outpanKey = "outpanKey";
+?>
